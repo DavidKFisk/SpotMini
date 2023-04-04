@@ -1,6 +1,6 @@
 # Spot_Micro_Pi
 
-This is still a Work-in-Progress! I am forking the work of @michaelkubina and his SpotMicroESP32. This will be controlled by a Raspberry PI with some of the hardware and prints being reworked
+This is still a Work-in-Progress! I am forking the work of @[michaelkubina](https://github.com/michaelkubina) and his SpotMicroESP32. This will be controlled by a Raspberry PI with some of the hardware and prints being reworked
 
 You can find Michael Kubina's 3D-printing parts on Thingiverse as well: https://www.thingiverse.com/thing:4559827/files
 
